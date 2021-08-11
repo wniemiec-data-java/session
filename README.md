@@ -1,16 +1,16 @@
-![](https://github.com/wniemiec-util-data/session/blob/master/docs/img/logo/logo.jpg)
+![](https://github.com/wniemiec-data-java/session/blob/master/docs/img/logo/logo.jpg)
 
 <h1 align='center'>Session</h1>
 <p align='center'>Session manager that stores information obtained at run time.</p>
 <p align="center">
-	<a href="https://github.com/wniemiec-util-data/session/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-util-data/session/actions/workflows/windows.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-util-data/session/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-util-data/session/actions/workflows/macos.yml/badge.svg" alt=""></a>
-	<a href="https://github.com/wniemiec-util-data/session/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-util-data/session/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
-	<a href="https://codecov.io/gh/wniemiec-util-data/session"><img src="https://codecov.io/gh/wniemiec-util-data/session/branch/master/graph/badge.svg?token=R2SFS4SP86" alt="Coverage status"></a>
+	<a href="https://github.com/wniemiec-data-java/session/actions/workflows/windows.yml"><img src="https://github.com/wniemiec-data-java/session/actions/workflows/windows.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-data-java/session/actions/workflows/macos.yml"><img src="https://github.com/wniemiec-data-java/session/actions/workflows/macos.yml/badge.svg" alt=""></a>
+	<a href="https://github.com/wniemiec-data-java/session/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-data-java/session/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
+	<a href="https://codecov.io/gh/wniemiec-data-java/session"><img src="https://codecov.io/gh/wniemiec-data-java/session/branch/master/graph/badge.svg?token=R2SFS4SP86" alt="Coverage status"></a>
 	<a href="http://java.oracle.com"><img src="https://img.shields.io/badge/java-11+-D0008F.svg" alt="Java compatibility"></a>
-	<a href="https://github.com/wniemiec-util-data/session/releases"><img src="https://img.shields.io/github/v/release/wniemiec-util-data/session" alt="Release"></a>
-	<a href="https://mvnrepository.com/artifact/io.github.wniemiec-util-data/session"><img src="https://img.shields.io/maven-central/v/io.github.wniemiec-util-data/session" alt="Maven Central release"></a>
-	<a href="https://github.com/wniemiec-util-data/session/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-util-data/session" alt="License"></a>
+	<a href="https://github.com/wniemiec-data-java/session/releases"><img src="https://img.shields.io/github/v/release/wniemiec-data-java/session" alt="Release"></a>
+	<a href="https://mvnrepository.com/artifact/io.github.wniemiec-data-java/session"><img src="https://img.shields.io/maven-central/v/io.github.wniemiec-data-java/session" alt="Maven Central release"></a>
+	<a href="https://github.com/wniemiec-data-java/session/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-data-java/session" alt="License"></a>
 </p>
 <hr />
 
@@ -28,7 +28,7 @@ Session manager that stores information obtained at run time. It allows differen
 #### Using Maven Central (recomended):
 ```
 <dependency>
-  <groupId>io.github.wniemiec-util-data</groupId>
+  <groupId>io.github.wniemiec-data-java</groupId>
   <artifactId>session</artifactId>
   <version>LATEST</version>
 </dependency>
@@ -37,7 +37,7 @@ Session manager that stores information obtained at run time. It allows differen
 #### Using GitHub Packages:
 ```
 <dependency>
-  <groupId>wniemiec.util.data</groupId>
+  <groupId>wniemiec.data.java</groupId>
   <artifactId>session</artifactId>
   <version>LATEST</version>
 </dependency>
@@ -52,7 +52,7 @@ $ mvn install
 ```
 [...]
 
-import wniemiec.util.data.Session;
+import wniemiec.data.java.Session;
 
 [...]
 
@@ -71,10 +71,10 @@ System.out.println( example.getFirst() + " " + example.getSecond() );
 |destroy{,shared} |`void: boolean`|Deletes the session.| - |
 
 ## 🚩 Changelog
-Details about each version are documented in the [releases section](https://github.com/williamniemiec/wniemiec-util-data/session/releases).
+Details about each version are documented in the [releases section](https://github.com/williamniemiec/wniemiec-data-java/session/releases).
 
 ## 🤝 Contribute!
-See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-util-data/session/blob/master/CONTRIBUTING.md).
+See the documentation on how you can contribute to the project [here](https://github.com/wniemiec-data-java/session/blob/master/CONTRIBUTING.md).
 
 ## 📁 Files
 

@@ -4,13 +4,13 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>io.github.wniemiec-util-data</groupId>
+  <groupId>io.github.wniemiec-data-java</groupId>
   <artifactId>session</artifactId>
   <version>1.0.0</version>
 
   <name>Session</name>
   <description>Session manager that stores information obtained at run time.</description>
-  <url>https://github.com/wniemiec-util-data/session</url>
+  <url>https://github.com/wniemiec-data-java/session</url>
 
   <properties>
     <version.major>1</version.major>
@@ -34,9 +34,9 @@
   </developers>
 
   <scm>
-    <connection>scm:git:git@github.com:wniemiec-util-data/session.git</connection>
-    <developerConnection>scm:git:ssh://github.com:wniemiec-util-data/session.git</developerConnection>
-    <url>https://github.com/wniemiec-util-data/session/tree/main</url>
+    <connection>scm:git:git@github.com:wniemiec-data-java/session.git</connection>
+    <developerConnection>scm:git:ssh://github.com:wniemiec-data-java/session.git</developerConnection>
+    <url>https://github.com/wniemiec-data-java/session/tree/main</url>
   </scm>
 
   <distributionManagement>
