@@ -8,7 +8,6 @@
 	<a href="https://github.com/wniemiec-data-java/session/actions/workflows/ubuntu.yml"><img src="https://github.com/wniemiec-data-java/session/actions/workflows/ubuntu.yml/badge.svg" alt=""></a>
 	<a href="https://codecov.io/gh/wniemiec-data-java/session"><img src="https://codecov.io/gh/wniemiec-data-java/session/branch/master/graph/badge.svg?token=R2SFS4SP86" alt="Coverage status"></a>
 	<a href="http://java.oracle.com"><img src="https://img.shields.io/badge/java-11+-D0008F.svg" alt="Java compatibility"></a>
-	<a href="https://github.com/wniemiec-data-java/session/releases"><img src="https://img.shields.io/github/v/release/wniemiec-data-java/session" alt="Release"></a>
 	<a href="https://mvnrepository.com/artifact/io.github.wniemiec-data-java/session"><img src="https://img.shields.io/maven-central/v/io.github.wniemiec-data-java/session" alt="Maven Central release"></a>
 	<a href="https://github.com/wniemiec-data-java/session/blob/master/LICENSE"><img src="https://img.shields.io/github/license/wniemiec-data-java/session" alt="License"></a>
 </p>
